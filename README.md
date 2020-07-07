@@ -1,3 +1,2 @@
 # SmartThings-Device-Type-Handler
-This is a device type handler for a light dimming device. 
-It was created according to the open developer platform for the Internet of Things -> https://docs.smartthings.com/en/latest/getting-started/overview.html, https://community.smartthings.com
+Please refer to a public repository that can be found here -> <a href="https://github.com/SmartThingsCommunity/SmartThingsPublic/pull/30326">SmartThingsPublic/BJanuszS/PullRequest</a>
